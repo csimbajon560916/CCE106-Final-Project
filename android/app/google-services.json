@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "764955551260",
+    "project_id": "pryce-hatid",
+    "storage_bucket": "pryce-hatid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764955551260:android:f11f8de4993d11333761d9",
+        "android_client_info": {
+          "package_name": "com.example.pryce_hatid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764955551260-qitk6lu775d7b5q8tj90u7tq7mtmc39v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDQe_0tHmq61YjnV6L7xq_kVQn3BJNljE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764955551260-qitk6lu775d7b5q8tj90u7tq7mtmc39v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "764955551260-i4gqe77m8pd9c45nhpfejd2ddpsqib5t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pryceHatid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
